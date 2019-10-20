@@ -19,4 +19,8 @@ const peserta = {
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
   },
+  "ywild":{
+    "link":"pages/ywild/index.html",
+    "photo":"img/ywild.jpg"
+  },
 };
