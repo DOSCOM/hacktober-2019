@@ -235,4 +235,8 @@ const peserta = {
     "link":"pages/maheza/index.html",
     "photo":"img/megane-kun.png",
   },
+    "alone":{
+    "link":"pages/alone/index.html",
+    "photo":"img/alone.jpg"
+  },
 };
