@@ -39,6 +39,10 @@ const peserta = {
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg"
   },
+  "safira": {
+    "link": "pages/safira/index.html",
+    "photo": "img/senku.jpg"
+  },
   "dendi":{
     "link": "pages/dendi/index.html",
     "photo": "img/panda.jpg"
@@ -50,10 +54,6 @@ const peserta = {
   "tomeskates":{
     "link": "pages/rizal/index.html",
     "photo": "img/rizal.jpg"
-  },
-  "safira": {
-    "link": "pages/safira/index.html",
-    "photo": "img/senku.jpg"
   },
   "pepsky":{
     "link": "pages/pepsky/index.html",
