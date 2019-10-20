@@ -13,10 +13,18 @@ const peserta = {
   },
   "soldv":{
     "link": "pages/soldv/index.html",
-    "photo": "img/soldv.jpg"
+    "photo": "img/soldv.jpg" 
+  },
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
   },
   "fatan":{
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
+  },
+  "ywild":{
+    "link":"pages/ywild/index.html",
+    "photo":"img/ywild.jpg"
   },
 };
