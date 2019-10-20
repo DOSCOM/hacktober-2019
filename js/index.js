@@ -5,7 +5,7 @@ const peserta = {
   },
   "wahyu" :{
     "link": "pages/boi/index.html",
-    "photo": "img/boi.jpg"
+    "photo": "img/newboi.jpg"
   },
   "haqqer": {
     "link": "pages/haqqer/index.html",
