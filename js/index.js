@@ -19,8 +19,20 @@ const peserta = {
     "link": "pages/fajar/index.html",
     "photo": "img/jaar.jpg",
   },
+  "safira": {
+    "link": "pages/safira/index.html",
+    "photo": "img/senku.jpg"
+  },
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
+  },
   "fatan":{
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
+  },
+  "ywild":{
+    "link":"pages/ywild/index.html",
+    "photo":"img/ywild.jpg"
   },
 };
