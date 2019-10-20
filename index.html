@@ -20,7 +20,7 @@
       const temp = peserta;
       let foo = [];
       const kotak = document.getElementById("peserta");
-      
+      const btn_colors = ["btn-primary", "btn-secondary", "btn-danger", "btn-success", "btn-warning", "btn-dark"];
       for (const label in temp) {
         let col = document.createElement("div");
         let card = document.createElement("div");
@@ -31,8 +31,8 @@
 
         img.setAttribute("src", temp[label].photo);
         img.classList.add("card-img-top", "img-thumbnail");
-
-        btn.classList.add("btn", "btn-primary", "btn-block");
+        const random_btn = Math.ceil(Math.random() * 5);
+        btn.classList.add("btn", btn_colors[random_btn], "btn-block");
         btn.setAttribute("href", temp[label].link);
         btn.appendChild(text);
 
