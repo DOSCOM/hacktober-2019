@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width" />
     <title>Hacktober 2019</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/animate.css">
     <link rel="stylesheet" href="./css/custom.style.css">
   </head>
   <body>
@@ -21,7 +22,12 @@
     <script src="./js/jquery-3.3.1.slim.min.js"></script>
     <script src="./js/popper.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/wow.min.js"></script>
     <script charset="utf-8">
+      // Awali wow.js untuk animasi 
+      new WOW().init();
+
+      // Generator card
       const temp = peserta;
       let foo = [];
       const kotak = document.getElementById("peserta");
@@ -44,7 +50,7 @@
         cardBody.classList.add("card-body");
         cardBody.appendChild(btn);
 
-        card.classList.add("card");
+        card.classList.add("card", 'wow', 'bounceInUp');
         card.appendChild(img);
         card.appendChild(cardBody);
 
