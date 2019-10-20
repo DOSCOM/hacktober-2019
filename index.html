@@ -4,9 +4,50 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <title>Hacktober 2019</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
   </head>
   <body>
-    <h1>hello world</h1>
+    <h1 class="text-center my-5">Hacktober Fest 2019</h1>
+    <div class="container">
+      <div id="peserta" class="row">
+      </div>
+    </div>
     <script src="./js/index.js" charset="utf-8"></script>
+    <script src="./js/jquery-3.3.1.slim.min.js"></script>
+    <script src="./js/popper.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script charset="utf-8">
+      const temp = peserta;
+      let foo = [];
+      const kotak = document.getElementById("peserta");
+      
+      for (const label in temp) {
+        let col = document.createElement("div");
+        let card = document.createElement("div");
+        let cardBody = document.createElement("div");
+        let img = document.createElement("img");
+        let btn = document.createElement("a");
+        let text = document.createTextNode(label);
+
+        img.setAttribute("src", temp[label].photo);
+        img.classList.add("card-img-top");
+
+        btn.classList.add("btn", "btn-primary", "btn-block");
+        btn.setAttribute("href", temp[label].link);
+        btn.appendChild(text);
+
+        cardBody.classList.add("card-body");
+        cardBody.appendChild(btn);
+
+        card.classList.add("card");
+        card.appendChild(img);
+        card.appendChild(cardBody);
+
+        col.classList.add("col-md-4");
+        col.appendChild(card);
+
+        kotak.appendChild(col);
+      }
+    </script>
   </body>
 </html>
