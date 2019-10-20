@@ -1,2 +1,6 @@
-const temp = require("./peserta.json")
-console.log(temp)
+const peserta = {
+  "saipul": {
+    "link": "pages/saipul/index.html",
+    "photo": "img/saipul.jpg"
+  },
+};
