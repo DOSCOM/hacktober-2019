@@ -17,6 +17,6 @@ const peserta = {
   },
   vika: {
     link: "pages/vika/index.html",
-    photo: "img/nezuko.jpg"
+    photo: "img/nezuko.jpeg"
   }
 };
