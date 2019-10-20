@@ -19,6 +19,10 @@ const peserta = {
     "link": "pages/fajar/index.html",
     "photo": "img/jaar.jpg",
   },
+  "tomeskates":{
+    "link": "pages/rizal/index.html",
+    "photo": "img/rizal.jpg"
+  },
   "safira": {
     "link": "pages/safira/index.html",
     "photo": "img/senku.jpg"
@@ -30,6 +34,10 @@ const peserta = {
   "fatan":{
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
+  },
+  "yumnanda":{
+    "link":"pages/yumnanda/index.html",
+    "photo":"img/nanda.png",
   },
   "ywild":{
     "link":"pages/ywild/index.html",
