@@ -15,16 +15,37 @@ const peserta = {
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg"
   },
-<<<<<<< HEAD
   "safira": {
     "link": "pages/safira/index.html",
     "photo": "img/senku.jpg"
-  }
-
-=======
+  },
+  "fajar":{
+    "link": "pages/fajar/index.html",
+    "photo": "img/jaar.jpg",
+  },
+  "tomeskates":{
+    "link": "pages/rizal/index.html",
+    "photo": "img/rizal.jpg"
+  },
+  "safira": {
+    "link": "pages/safira/index.html",
+    "photo": "img/senku.jpg"
+  },
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
+  },
   "fatan":{
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
   },
->>>>>>> 661a4f3c180da572fc887ad0946ffb099ef0df26
+  "yumnanda":{
+    "link":"pages/yumnanda/index.html",
+    "photo":"img/nanda.png",
+  },
+  "ywild":{
+    "link":"pages/ywild/index.html",
+    "photo":"img/ywild.jpg"
+  },
+
 };
