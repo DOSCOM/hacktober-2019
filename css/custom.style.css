@@ -20,3 +20,12 @@ h1.masthead {
 .masthead-2019 {
     color: #fff922;
 }
+
+.img-thumbnail{
+	-webkit-transition: .3s;
+	transition: .3s;
+}
+
+.img-thumbnail:hover{
+	opacity: 0.8;
+}
