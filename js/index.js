@@ -19,4 +19,8 @@ const peserta = {
     "link": "pages/pepsky/index.html",
     "photo": "img/pepsky.jpg" 
   },
+  "fatan":{
+    "link":"pages/fatan/index.html",
+    "photo":"img/imageku.jpg"
+  },
 };
