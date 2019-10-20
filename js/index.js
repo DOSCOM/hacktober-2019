@@ -11,4 +11,12 @@ const peserta = {
     "link": "pages/haqqer/index.html",
     "photo": "img/haqqer.jpg"
   },
+  "soldv":{
+    "link": "pages/soldv/index.html",
+    "photo": "img/soldv.jpg"
+  },
+  "fatan":{
+    "link":"pages/fatan/index.html",
+    "photo":"img/imageku.jpg"
+  },
 };
