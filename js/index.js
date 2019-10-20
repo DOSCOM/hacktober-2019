@@ -17,7 +17,7 @@ const peserta = {
   },
   "fajar":{
     "link": "pages/fajar/index.html",
-    "photo": "img/Fajar Hamba Allah.jpg",
+    "photo": "img/jaar.jpg",
   },
   "fatan":{
     "link":"pages/fatan/index.html",
