@@ -39,6 +39,10 @@ const peserta = {
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg"
   },
+  "lukman":{
+    "link": "pages/lukman/index.html",
+    "photo": "img/lukman.jpg",
+  },
   "safira": {
     "link": "pages/safira/index.html",
     "photo": "img/senku.jpg"
