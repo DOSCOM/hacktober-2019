@@ -15,6 +15,10 @@ const peserta = {
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg"
   },
+  "fajar":{
+    "link": "pages/fajar/index.html",
+    "photo": "img/jaar.jpg",
+  },
   "tomeskates":{
     "link": "pages/rizal/index.html",
     "photo": "img/rizal.jpg"
