@@ -31,4 +31,8 @@ const peserta = {
     "link":"pages/ywild/index.html",
     "photo":"img/ywild.jpg"
   },
+  "alone":{
+    "link":"pages/alone/index.html",
+    "photo":"img/alone.jpg"
+  },
 };
