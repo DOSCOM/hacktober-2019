@@ -82,7 +82,7 @@ const peserta = {
   dimas: {
     link: "pages/dimas/index.html",
     photo: "img/dimas.jpg"
-  }
+  },
   "saipul": {
     "link": "pages/saipul/index.html",
     "photo": "img/saipul.jpg"
