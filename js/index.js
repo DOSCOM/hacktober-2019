@@ -18,5 +18,33 @@ const peserta = {
   "dendi":{
     "link": "pages/dendi/index.html",
     "photo": "img/panda.jpg"
-  }
-}
+  },
+  "fajar":{
+    "link": "pages/fajar/index.html",
+    "photo": "img/jaar.jpg",
+  },
+  "tomeskates":{
+    "link": "pages/rizal/index.html",
+    "photo": "img/rizal.jpg"
+  },
+  "safira": {
+    "link": "pages/safira/index.html",
+    "photo": "img/senku.jpg"
+  },
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
+  },
+  "fatan":{
+    "link":"pages/fatan/index.html",
+    "photo":"img/imageku.jpg"
+  },
+  "yumnanda":{
+    "link":"pages/yumnanda/index.html",
+    "photo":"img/nanda.png",
+  },
+  "ywild":{
+    "link":"pages/ywild/index.html",
+    "photo":"img/ywild.jpg"
+  },
+};
