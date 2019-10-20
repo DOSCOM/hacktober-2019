@@ -24,6 +24,10 @@
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/wow.min.js"></script>
     <script charset="utf-8">
+      // Awali wow.js untuk animasi 
+      new WOW().init();
+
+      // Generator card
       const temp = peserta;
       let foo = [];
       const kotak = document.getElementById("peserta");
@@ -46,7 +50,7 @@
         cardBody.classList.add("card-body");
         cardBody.appendChild(btn);
 
-        card.classList.add("card");
+        card.classList.add("card", 'wow', 'bounceInUp');
         card.appendChild(img);
         card.appendChild(cardBody);
 
