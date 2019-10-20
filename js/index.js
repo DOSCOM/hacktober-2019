@@ -13,7 +13,11 @@ const peserta = {
   },
   "soldv":{
     "link": "pages/soldv/index.html",
-    "photo": "img/soldv.jpg" 
+    "photo": "img/soldv.jpg"
+  },
+  "safira": {
+    "link": "pages/safira/index.html",
+    "photo": "img/senku.jpg"
   },
   "pepsky":{
     "link": "pages/pepsky/index.html",
