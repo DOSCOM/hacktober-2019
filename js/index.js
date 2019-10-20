@@ -17,7 +17,7 @@ const peserta = {
   },
   vika: {
     link: "pages/vika/index.html",
-    photo: "img/nezuko.jpeg"
+    photo: "img/nezuko.jpg"
   },
   saipul: {
     link: "pages/saipul/index.html",
