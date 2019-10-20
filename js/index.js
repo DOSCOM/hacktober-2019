@@ -63,4 +63,8 @@ const peserta = {
     "link":"pages/dimas/index.html",
     "photo":"img/dimas.jpg",
   },
+  "maheza":{
+    "link":"pages/maheza/index.html",
+    "photo":"img/megane-kun.png",
+  },
 };
