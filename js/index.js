@@ -23,14 +23,10 @@ const peserta = {
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg"
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
   "tomeskates":{
     "link": "pages/rizal/index.html",
     "photo": "img/rizal.jpg"
-  }
-=======
-=======
+  },
   "lukman":{
     "link": "pages/lukman/index.html",
     "photo": "img/lukman.jpg",
@@ -55,14 +51,10 @@ const peserta = {
     "link": "pages/pepsky/index.html",
     "photo": "img/pepsky.jpg" 
   },
->>>>>>> 62234c21400e9f579c1b07066cbf06e3d5b5c79b
   "fatan":{
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
   },
-<<<<<<< HEAD
->>>>>>> 4f52a8eb81783fc42b58baad5761481e82f3361b
-=======
   "yumnanda":{
     "link":"pages/yumnanda/index.html",
     "photo":"img/nanda.png",
@@ -75,5 +67,4 @@ const peserta = {
     "link":"pages/dimas/index.html",
     "photo":"img/dimas.jpg",
   },
->>>>>>> 62234c21400e9f579c1b07066cbf06e3d5b5c79b
 };
