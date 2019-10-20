@@ -2,6 +2,7 @@
   "data": [
     "pages/saipul/index.html",
     "pages/haqqer/index.html",
-    "pages/fatan/index.html"
+    "pages/fatan/index.html",
+	"pages/bagon/index.html"
   ]
 }

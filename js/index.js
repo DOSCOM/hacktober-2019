@@ -79,6 +79,11 @@ const peserta = {
         "link": "pages/Husin/index.html",
         "photo": "img/husin.jpg",
     },
+    "bagon": {
+      "link": "pages/bagon/index.html",
+      "photo": "img/bagon.png",
+     },
+
   saipul: {
     link: "pages/saipul/index.html",
     photo: "img/saipul.jpg"
@@ -239,4 +244,8 @@ const peserta = {
     "link":"pages/alone/index.html",
     "photo":"img/alone.jpg"
   },
+  "bagon": {
+    "link": "pages/bagon/index.html",
+    "photo": "img/bagon.png",
+   },
 };
