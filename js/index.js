@@ -19,6 +19,10 @@ const peserta = {
     "link": "pages/fajar/index.html",
     "photo": "img/jaar.jpg",
   },
+  "tomeskates":{
+    "link": "pages/rizal/index.html",
+    "photo": "img/rizal.jpg"
+  },
   "safira": {
     "link": "pages/safira/index.html",
     "photo": "img/senku.jpg"
