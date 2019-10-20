@@ -14,8 +14,9 @@ const peserta = {
   "soldv":{
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg"
-  }
+  },
   "dendi":{
     "link": "pages/dendi/index.html",
     "photo": "img/panda.jpg"
-};
+  }
+}
