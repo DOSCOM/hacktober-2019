@@ -43,4 +43,8 @@ const peserta = {
     "link":"pages/ywild/index.html",
     "photo":"img/ywild.jpg"
   },
+  "dimas":{
+    "link":"pages/dimas/index.html",
+    "photo":"img/dimas.jpg",
+  },
 };
