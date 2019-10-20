@@ -35,6 +35,10 @@ const peserta = {
     "link":"pages/fatan/index.html",
     "photo":"img/imageku.jpg"
   },
+  "yumnanda":{
+    "link":"pages/yumnanda/index.html",
+    "photo":"img/nanda.png",
+  },
   "ywild":{
     "link":"pages/ywild/index.html",
     "photo":"img/ywild.jpg"
