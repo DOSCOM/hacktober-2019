@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
+
+body {
+    background-color: #23204c;
+}
+
+h1.masthead {
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}
+
+.masthead-hacktober {
+    color: #469fff;
+}
+
+.masthead-fest {
+    color: #e00ab3;
+}
+
+.masthead-2019 {
+    color: #fff922;
+}
+
+.img-thumbnail{
+	-webkit-transition: .3s;
+	transition: .3s;
+}
+
+.img-thumbnail:hover{
+	opacity: 0.8;
+}
