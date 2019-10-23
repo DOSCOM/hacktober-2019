@@ -1,0 +1,211 @@
+@font-face {
+  font-family: 'True Lies';
+  src: url('../font/True Lies.ttf')
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+body {
+  padding: 0;
+  margin: 0;
+  background: #10011a;
+}
+
+.ornament-1 {
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+
+.ornament-2 {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  bottom: -2%;
+  z-index: -1;
+  overflow-y: hidden;
+}
+.img-ornament {
+  width: 100%;
+}
+#notfound {
+  position: relative;
+  height: 100vh;
+  /* background-image: url('https://hacktoberfest.digitalocean.com/assets/bg-map-6ed3e6c4b0c66b7bc311899f6257b04ccedb52dc69e65abdafecf2a8ec472fa5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: visible;
+  width: 100%;
+  z-index: 2; */
+  /* background: #10011a; */
+  /* background: #0b193d; */
+}
+
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.link {
+  margin: 20px 20px;
+}
+
+.notfound {
+  max-width: 767px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.notfound .notfound-404 {
+  position: relative;
+  height: 180px;
+  margin-bottom: 20px;
+  z-index: -1;
+}
+
+.notfound .notfound-404 h1 {
+  font-family: 'True Lies';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50% , -50%);
+      -ms-transform: translate(-50% , -50%);
+          transform: translate(-50% , -50%);
+  font-size: 150px;
+  font-weight: 900;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: -5px;
+  color: #13021f;
+  text-transform: uppercase;
+  text-shadow: -2px -3px 1px #a11ec6, 3px 3px 0px #ff005a;
+  letter-spacing: -5px;
+}
+
+
+.notfound .notfound-404 h2 {
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 120px;
+  font-size: 42px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0px 2px 0px #a11ec6;
+  letter-spacing: 13px;
+  margin: 0;
+}
+
+.notfound a {
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #ff005a;
+  text-decoration: none;
+  border: 2px solid;
+  background: transparent;
+  padding: 10px 40px;
+  font-size: 14px;
+  font-weight: 700;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+.notfound a:hover {
+  color: #8400ff;
+}
+
+.hack-logo {
+  width: 90%;
+  margin: 2rem 3rem;
+}
+
+.notfound-subtitle {
+  position: relative;
+  height: 50px;
+  margin-bottom: 20px;
+  z-index: -1;
+}
+
+.notfound-subtitle h2 {
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  font-size: 42px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0px 2px 0px #a11ec6;
+  letter-spacing: 13px;
+  margin: 0;
+}
+@media only screen and (max-width: 1024px) {
+    .notfound .notfound-404 h2, .notfound-subtitle h2 {
+        font-size: 24px;
+    }
+
+    .notfound .notfound-404 h1 {
+      font-size: 100px;
+      letter-spacing: 0.1rem;
+    }    
+    .hack-logo {
+      width: 80%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .notfound .notfound-404 h2, .notfound-subtitle h2 {
+        font-size: 24px;
+    }
+    .notfound .notfound-404 h1 {
+      font-size: 80px;
+      letter-spacing: 0.2rem;
+    }    
+    .hack-logo {
+      width: 85%;
+    }
+    .img-ornament {
+      width: 100%;
+      z-index: -1;
+    }
+    .ornament-2 {
+      position: absolute;
+      top: 70%;
+      left: 50%;
+      overflow-y: hidden;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+  .notfound .notfound-404 h1 {
+      font-size: 60px;
+      letter-spacing: 0.2rem;
+  }
+  .hack-logo {
+    width: 80%;
+  }
+  .img-ornament {
+    width: 100%;
+  }
+  .ornament-2 {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    right: -2%;
+    overflow-y: hidden;
+  }
+}
+
