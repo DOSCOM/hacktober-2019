@@ -176,6 +176,12 @@ const peserta = {
     "link": "pages/boi/index.html",
     "photo": "img/newboi.jpg"
   },
+
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
+  },
+  
   "haqqer": {
     "link": "pages/haqqer/index.html",
     "photo": "img/haqqer.jpg"
@@ -248,8 +254,12 @@ const peserta = {
     "link": "pages/bagon/index.html",
     "photo": "img/bagon.png",
    },
+<<<<<<< HEAD
   "bob": {
     "link": "pages/bobgit/index.html",
     "photo": "img/boobs.jpg",
    },
 };
+=======
+};
+>>>>>>> 0673c71fa21d3b4df1fdcd77a855b9c791fc4c9d
