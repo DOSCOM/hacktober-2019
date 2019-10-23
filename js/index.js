@@ -7,6 +7,12 @@ const peserta = {
     "link": "pages/boi/index.html",
     "photo": "img/boi.jpg"
   },
+
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
+  },
+  
   "haqqer": {
     "link": "pages/haqqer/index.html",
     "photo": "img/haqqer.jpg"
@@ -15,8 +21,5 @@ const peserta = {
     "link": "pages/soldv/index.html",
     "photo": "img/soldv.jpg" 
   },
-  "pepsky":{
-    "link": "pages/pepsky/index.html",
-    "photo": "img/pepsky.jpg" 
-  },
+
 };
