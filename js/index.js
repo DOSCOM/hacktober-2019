@@ -253,5 +253,12 @@ const peserta = {
   "bagon": {
     "link": "pages/bagon/index.html",
     "photo": "img/bagon.png",
+
+  },
+  "viooo": {
+	 "link": "pages/viooo/index.html",
+	 "photo": "img/viooo.png",
+  },
+};
    },
 };
