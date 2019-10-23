@@ -176,6 +176,12 @@ const peserta = {
     "link": "pages/boi/index.html",
     "photo": "img/newboi.jpg"
   },
+
+  "pepsky":{
+    "link": "pages/pepsky/index.html",
+    "photo": "img/pepsky.jpg" 
+  },
+  
   "haqqer": {
     "link": "pages/haqqer/index.html",
     "photo": "img/haqqer.jpg"
