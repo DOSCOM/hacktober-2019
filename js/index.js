@@ -260,5 +260,3 @@ const peserta = {
 	 "photo": "img/viooo.png",
   },
 };
-   },
-};
