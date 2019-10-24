@@ -253,8 +253,11 @@ const peserta = {
   "bagon": {
     "link": "pages/bagon/index.html",
     "photo": "img/bagon.png",
-
-  },
+   },
+  "bob": {
+    "link": "pages/bobgit/index.html",
+    "photo": "img/boobs.jpg",
+   },
   "viooo": {
 	 "link": "pages/viooo/index.html",
 	 "photo": "img/viooo.jpg",
