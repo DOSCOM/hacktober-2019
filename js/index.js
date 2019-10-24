@@ -257,6 +257,6 @@ const peserta = {
   },
   "viooo": {
 	 "link": "pages/viooo/index.html",
-	 "photo": "img/viooo.png",
+	 "photo": "img/viooo.jpg",
   },
 };
