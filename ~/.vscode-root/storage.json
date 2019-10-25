@@ -1376,5 +1376,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/daffa/hacktober2019"
+    "pickerWorkingDir": "/home/daffa/hacktober2019",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/daffa/hacktober2019/hacktober-2019",
+            "backupPath": "/home/daffa/hacktober2019/hacktober-2019/~/.vscode-root/Backups/87e23f210380d17482873267714887af",
+            "uiState": {
+                "mode": 1,
+                "x": 172,
+                "y": 28,
+                "width": 1024,
+                "height": 711
+            }
+        },
+        "openedWindows": []
+    }
 }
