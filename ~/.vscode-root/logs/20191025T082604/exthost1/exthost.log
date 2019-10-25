@@ -1,0 +1,38 @@
+[2019-10-25 08:26:14.478] [exthost] [info] extension host started
+[2019-10-25 08:26:14.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-25 08:26:14.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-25 08:26:14.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-25 08:26:14.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-25 08:26:14.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-25 08:26:14.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-25 08:26:14.984] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-25 08:26:14.984] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-25 08:26:15.020] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2019-10-25 08:26:15.020] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-10-25 08:26:15.175] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2019-10-25 08:26:15.176] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-10-25 08:26:15.830] [exthost] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"extensionId":{"value":"lihui.vs-color-picker","_lower":"lihui.vs-color-picker"},"activationEvent":"*"}
+[2019-10-25 08:26:15.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/lihui.vs-color-picker-1.0.0/out/src/extension
+[2019-10-25 08:26:15.858] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save {"startup":true,"extensionId":{"value":"mcright.auto-save","_lower":"mcright.auto-save"},"activationEvent":"*"}
+[2019-10-25 08:26:15.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/mcright.auto-save-1.0.3/extension.js
+[2019-10-25 08:26:15.876] [exthost] [info] eager extensions activated
+[2019-10-25 08:26:41.138] [exthost] [info] extension host started
+[2019-10-25 08:26:41.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-25 08:26:41.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-25 08:26:41.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-25 08:26:41.188] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-25 08:26:41.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-25 08:26:41.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-25 08:26:41.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-25 08:26:41.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-25 08:26:41.405] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2019-10-25 08:26:41.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-10-25 08:26:41.425] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2019-10-25 08:26:41.425] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-10-25 08:26:41.479] [exthost] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"extensionId":{"value":"lihui.vs-color-picker","_lower":"lihui.vs-color-picker"},"activationEvent":"*"}
+[2019-10-25 08:26:41.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/lihui.vs-color-picker-1.0.0/out/src/extension
+[2019-10-25 08:26:41.480] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save {"startup":true,"extensionId":{"value":"mcright.auto-save","_lower":"mcright.auto-save"},"activationEvent":"*"}
+[2019-10-25 08:26:41.480] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/daffa/.vscode/extensions/mcright.auto-save-1.0.3/extension.js
+[2019-10-25 08:26:41.484] [exthost] [info] eager extensions activated
+[2019-10-25 08:26:47.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-10-25 08:26:47.054] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
