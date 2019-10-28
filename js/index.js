@@ -266,4 +266,8 @@ const peserta = {
     "link": "pages/daffa/index.html",
     "photo": "img/daffa.jpg",
    },
+   "FluffySweet": {
+    "link": "pages/baihaqi/index.html",
+    "photo": "img/baihaqi.png",
+   },
 };
