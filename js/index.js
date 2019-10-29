@@ -262,6 +262,10 @@ const peserta = {
 	 "link": "pages/viooo/index.html",
 	 "photo": "img/viooo.jpg",
   },
+  "wawan" : {
+	 "link": "pages/wawan/index.html",
+	  "photo": "img/wawan.jpg",
+  },
   "daffa": {
     "link": "pages/daffa/index.html",
     "photo": "img/daffa.jpg",
